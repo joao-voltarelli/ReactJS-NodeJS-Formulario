@@ -107,7 +107,7 @@ function App() {
 
         <button type='submit'>ENVIAR</button><br></br><br></br><br></br><br></br>
         <br></br><a href="https://trello.com/b/D15ccHjN/formulario" target="_blank" rel="noreferrer">Link para o board utilizado no Trello</a>
-        <br></br><br></br><a href="https://github.com/joao-voltarelli/ReactJS-NodeJS-Formulario.git" target="_blank" rel="noreferrer">Link para o projeto no Github</a>
+        <br></br><br></br><a href="https://github.com/joao-voltarelli/formulario-teste/tree/master" target="_blank" rel="noreferrer">Link para o projeto no Github</a>
       </Form>
     </div>
   );

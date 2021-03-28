@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/formulario-teste/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/formulario-teste/static/js/main.cecc7fed.chunk.js",
-    "main.js.map": "/formulario-teste/static/js/main.cecc7fed.chunk.js.map",
-    "runtime-main.js": "/formulario-teste/static/js/runtime-main.ef6b8b82.js",
-    "runtime-main.js.map": "/formulario-teste/static/js/runtime-main.ef6b8b82.js.map",
-    "static/js/2.426d55fa.chunk.js": "/formulario-teste/static/js/2.426d55fa.chunk.js",
-    "static/js/2.426d55fa.chunk.js.map": "/formulario-teste/static/js/2.426d55fa.chunk.js.map",
-    "static/js/3.ab29c829.chunk.js": "/formulario-teste/static/js/3.ab29c829.chunk.js",
-    "static/js/3.ab29c829.chunk.js.map": "/formulario-teste/static/js/3.ab29c829.chunk.js.map",
+    "main.css": "/formulario-teste/static/css/main.ea2aa48b.chunk.css",
+    "main.js": "/formulario-teste/static/js/main.3788b739.chunk.js",
+    "main.js.map": "/formulario-teste/static/js/main.3788b739.chunk.js.map",
+    "runtime-main.js": "/formulario-teste/static/js/runtime-main.e8ad7899.js",
+    "runtime-main.js.map": "/formulario-teste/static/js/runtime-main.e8ad7899.js.map",
+    "static/js/2.2f5af846.chunk.js": "/formulario-teste/static/js/2.2f5af846.chunk.js",
+    "static/js/2.2f5af846.chunk.js.map": "/formulario-teste/static/js/2.2f5af846.chunk.js.map",
+    "static/js/3.3131568e.chunk.js": "/formulario-teste/static/js/3.3131568e.chunk.js",
+    "static/js/3.3131568e.chunk.js.map": "/formulario-teste/static/js/3.3131568e.chunk.js.map",
     "index.html": "/formulario-teste/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/formulario-teste/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.426d55fa.chunk.js.LICENSE.txt": "/formulario-teste/static/js/2.426d55fa.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/formulario-teste/static/media/logo.6ce24c58.svg"
+    "static/css/main.ea2aa48b.chunk.css.map": "/formulario-teste/static/css/main.ea2aa48b.chunk.css.map",
+    "static/js/2.2f5af846.chunk.js.LICENSE.txt": "/formulario-teste/static/js/2.2f5af846.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef6b8b82.js",
-    "static/js/2.426d55fa.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.cecc7fed.chunk.js"
+    "static/js/runtime-main.e8ad7899.js",
+    "static/js/2.2f5af846.chunk.js",
+    "static/css/main.ea2aa48b.chunk.css",
+    "static/js/main.3788b739.chunk.js"
   ]
 }
